@@ -1,4 +1,4 @@
-# GenAI Platform Support Chatbot 🚀
+# GenAI Platform Support Chatbot 
 
 ## Features
 ✅ Dry-Run Mode  
@@ -7,12 +7,13 @@
 ✅ Approval Checkpoint for Risky Commands  
 ✅ Streamlit UI  
 
-## Run
-1. `pip install -r requirements.txt`
-2. `python app.py`
-3. `streamlit run streamlit_app.py`
+##  Change directory genai_chatbot_hackathon to Run 
+1. `cd   genai_chatbot_hackathon `
+2. `pip install -r requirements.txt`
+3. `python app.py`
+4. `streamlit run streamlit_app.py`
 
-## 🔐 Environment Setup
+##  Environment Setup
 Create a `.env` file in the project root:
 ```
 OPENAI_API_KEY=sk-your-openai-key
