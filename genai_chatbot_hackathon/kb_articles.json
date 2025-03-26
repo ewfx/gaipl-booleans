@@ -1,0 +1,12 @@
+[
+  {
+    "id": "disk",
+    "title": "Disk space issue resolution",
+    "content": "Check disk usage with `df -h`. Clean /var/log with `rm -rf /var/log/*.gz`."
+  },
+  {
+    "id": "service",
+    "title": "Web service restart",
+    "content": "Check status with `systemctl status nginx`. Restart service with `systemctl restart nginx`."
+  }
+]
