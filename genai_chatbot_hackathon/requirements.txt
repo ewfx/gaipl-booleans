@@ -1,0 +1,6 @@
+Flask
+openai
+pinecone
+streamlit
+azure-search-documents
+python-dotenv
